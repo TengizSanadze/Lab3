@@ -1,0 +1,11 @@
+PHYTHON:
+
+In Python a function is defined using the def keyword. 
+To call a function, use the function name followed by parenthesis. 
+Information can be passed into functions as arguments.
+Arguments are specified after the function name, inside the parentheses. 
+I can add as many arguments as I want, just separate them with a comma.
+
+
+
+Java

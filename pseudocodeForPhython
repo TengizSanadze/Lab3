@@ -1,0 +1,17 @@
+1)  Calculator Phython
+
+inputData = Read_Input() 
+result = Perform_Calculations(inputData) 
+Display_Results(result)
+
+Print "Enter First Number" firstNumber = Read_Input Print "Enter Second Number" 
+secondNumber = Read_Input 
+Print "Enter an Operator"
+Print "Enter an Operator" operator = Read_Input
+Return firstNumber, secondNumber, operator
+
+
+
+
+
+
